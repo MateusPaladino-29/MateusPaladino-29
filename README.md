@@ -1,12 +1,8 @@
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
 - 💼 A procura do primeiro emprego na Area 
 - 💻 Cursando Técnico Desenvolvimento de Sistemas (SENAI Paulo Skaf)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (Faculdade de Informática e Administração Paulista - FIAP)
-</p>
+
 
 <div>
 <a href="https://github.com/MateusPaladino-29">
