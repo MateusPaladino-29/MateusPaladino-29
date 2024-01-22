@@ -1,7 +1,7 @@
 
 - 💼 A procura do primeiro emprego na Area 
 - 💻 Cursando Técnico Desenvolvimento de Sistemas (SENAI Paulo Skaf)
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (Faculdade de Informática e Administração Paulista - FIAP)
+
 
 
 <div>
