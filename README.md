@@ -1,6 +1,7 @@
 
 - 💼 A procura do primeiro emprego na Area 
-- 💻 Cursando Técnico Desenvolvimento de Sistemas (SENAI Paulo Skaf)
+- 💻 Concluido Técnico Desenvolvimento de Sistemas (SENAI Paulo Skaf)
+- ⏳Cursando Bacharelado em Sistemas de Informção (FMU)
 
 
 
